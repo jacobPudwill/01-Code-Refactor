@@ -13,3 +13,7 @@ Also then describing the benefits that optimizing SEO can provide for a business
 ![A screenshot of the Horiseon webpage that includes cards with text and images.](./Assets/Screenshot-2.png)
 
 ![A screenshot of the Horiseon webpage that includes cards with text and images and the footer.](./Assets/Screenshot-3.png)
+
+## Link to Application
+
+https://jacobpudwill.github.io/01-Code-Refactor/
